@@ -1,0 +1,53 @@
+body {
+    background-color: #a7bcf5;
+}
+
+.head_line {
+    text-align: center;
+}
+
+.head_line h1 {
+    font-family: system-ui;
+}
+
+.paragraph {
+    display: block;
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.paragraph p {
+    display: inline-block;
+    padding: 6px;
+    background-color: #7eb0e3ab;
+    margin: 5px;
+    border: 10px solid #42a73c;
+    width: 288px;
+}
+
+.purchase {
+    display: inline-block;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.food {
+    float: left;
+    margin-left: 304px;
+}
+
+.product {
+    float: right;
+    margin-right: 172px;
+}
+
+.font h3 {
+    font-size: 21px;
+    margin: 0;
+}
+
+.font ul {
+    margin-top: 6px;
+    padding-left: 19px;
+}
